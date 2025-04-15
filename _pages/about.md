@@ -2,7 +2,7 @@
 permalink: /
 author_profile: true
 ---
-# Building ionic computers
+**Building ionic computers**
 
 
 <div style="text-align: justify;">
