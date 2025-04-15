@@ -14,3 +14,4 @@ I am a CNRS Principal Investigator at the École Normale Supérieure (ENS) of Ly
 
 </div>
 
+![Research Image](assets/images/foo-bar-identity.jpg)
