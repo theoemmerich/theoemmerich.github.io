@@ -29,10 +29,10 @@ params:
       - icon: linkedin
         icon_pack: fab
         name: LinkedIn
-        url: "https://www.linkedin.com/in/ton-lien"
+        url: "https://www.linkedin.com/in/th%C3%A9o-emmerich-023143107/"
       - icon: google-scholar
         icon_pack: ai
         name: Google Scholar
-        url: "https://scholar.google.com/citations?user=tonID"
+        url: "https://scholar.google.com/citations?user=_dFrKUwAAAAJ&hl=en"
 
 publishDir: "public"
