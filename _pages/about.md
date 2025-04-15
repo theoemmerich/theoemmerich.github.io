@@ -1,11 +1,7 @@
 ---
 permalink: /
-title: "Theo Emmerich"
-header:
- og:
-  title: "Building ionic computers"
+title: "Building ionic computers"
 author_profile: true
-
 ---
 <div style="text-align: justify;">
 
