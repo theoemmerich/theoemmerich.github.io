@@ -14,8 +14,8 @@ title_separator          : ""
 url                      : "https://theoemmerich.com" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl: ""
 repository               : "academicpages/academicpages.github.io"
-<meta name="description" content="Site personnel de Théo Emmerich, chercheur en nanofluidique à l'ENS Lyon.">
-<meta name="author" content="Theo Emmerich">
+meta_description: "Site personnel de Théo Emmerich, chercheur en nanofluidique à l'ENS Lyon."
+meta_author: "Theo Emmerich"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
