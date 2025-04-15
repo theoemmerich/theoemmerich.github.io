@@ -4,33 +4,66 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<ul>
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+  <li>
+    <strong>Nanofluidic logic with mechano–ionic memristive switches</strong><br>
+    Emmerich*, Theo; Teng*, Yunfei; Ronceray*, Nathan; Lopriore, Edoardo; Chiesa, Riccardo; Chernev, Andrey; Artemov, Vasily; Di Ventra, Massimiliano; Kis, Andras; Radenovic, Aleksandra<br>
+    <em>Nature Electronics</em>, 2024
+  </li>
 
-{% include base_path %}
+  <li>
+    <strong>Nanofluidics</strong><br>
+    Emmerich*, Theo; Ronceray*, Nathan; Agrawal, Kumar Varoon; Garaj, Slaven; Kumar, Manish; Noy, Aleksandr; Radenovic, Aleksandra<br>
+    <em>Nature Reviews Methods Primers</em>, 2024
+  </li>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  <li>
+    <strong>Lumen charge governs memristive ion transport in β-barrel nanopores</strong><br>
+    Mayer*, Simon Finn; Mitsioni*, Marianna; van den Heuvel, Lukas; Robin, Paul; Ronceray, Nathan; Marcaida, Maria Jose; Abriata, Luciano A; Krapp, Lucien F; Anton, Jana S; Soussou, Sarah; et al.<br>
+    <em>bioRxiv</em>, 2024
+  </li>
 
+  <li>
+    <strong>Disentangling 1/f noise from confined ion dynamics</strong><br>
+    Robin*, Paul; Lizée*, Mathieu; Yang, Qian; Emmerich, Théo; Siria, Alessandro; Bocquet, Lydéric<br>
+    <em>Faraday Discussions</em>, 2023
+  </li>
 
+  <li>
+    <strong>Long-term memory and synapse-like dynamics in two-dimensional nanofluidic channels</strong><br>
+    Robin*, P; Emmerich*, T; Ismail*, A; Niguès, A; You, Y; Nam, G-H; Keerthi, A; Siria, A; Geim, AK; Radha, B; et al.<br>
+    <em>Science</em>, 2023
+  </li>
 
+  <li>
+    <strong>Enhanced nanofluidic transport in activated carbon nanoconduits</strong><br>
+    Emmerich, Theo; Vasu, Kalangi S; Niguès, Antoine; Keerthi, Ashok; Radha, Boya; Siria, Alessandro; Bocquet, Lydéric<br>
+    <em>Nature Materials</em>, 2022
+  </li>
+
+  <li>
+    <strong>Exalted epi-osmotic energy harvesting in activated carbon nanochannels</strong><br>
+    Emmerich, Theo; Vasu, KS; Nigues, Antoine; Keerthi, Ashok; Boya, Radha; Siria, Alessandro; Bocquet, Lyderic; et al.<br>
+    <em>APS March Meeting Abstracts</em>, 2021
+  </li>
+
+  <li>
+    <strong>Activated carbon nanofluidics: from blue energy to ionic memory</strong><br>
+    Emmerich, Théo<br>
+    <em>Ph.D. thesis, PSL</em>, 2021
+  </li>
+
+  <li>
+    <strong>Capturing Bubbles and Preventing Foam Using Aerophilic Surfaces</strong><br>
+    Rapoport, Leonid; Emmerich, Theo; Varanasi, Kripa K<br>
+    <em>Advanced Materials Interfaces</em>, 2020
+  </li>
+
+  <li>
+    <strong>Growth rates and spontaneous navigation of condensate droplets through randomly structured textures</strong><br>
+    Sharma, Chander Shekhar; Combe, Juliette; Giger, Markus; Emmerich, Theo; Poulikakos, Dimos<br>
+    <em>ACS Nano</em>, 2017
+  </li>
+
+</ul>
