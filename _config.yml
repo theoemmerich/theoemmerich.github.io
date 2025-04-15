@@ -21,7 +21,6 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  name             : "Theo Emmerich"
   avatar           : "https://media.licdn.com/dms/image/v2/D5603AQH6tv9h036idw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711448468537?e=1750291200&v=beta&t=_kaJi5TzvXaB_FS95SEGjJ__mt54Xi0ze_R3xf56B5w"
   location         : "Lyon, France"
   email            : "theo.emmerich@ens-lyon.fr"
