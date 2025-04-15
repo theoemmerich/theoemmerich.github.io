@@ -4,7 +4,8 @@ page.title: "Building ionic computers"
 page.header:
   og:
     title: "Building ionic computers"
-  title: "Theo Emmerich"author_profile: true
+  title: "Theo Emmerich"
+author_profile: true
 
 ---
 <div style="text-align: justify;">
