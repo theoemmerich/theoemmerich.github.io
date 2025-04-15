@@ -4,9 +4,9 @@ title: "Building ion-based liquid computers"
 author_profile: true
 
 ---
-**About me** 
 <div style="text-align: justify;">
 
-I am a CNRS Principal investigator managing a lab at Ecole Normale Superieur(ENS) of Lyon. During my Ph.D. and postdoc, I contributed to the opening of a new research field: brain-inspired nanofluidics. It consists in implementing brain-like computations by relying on nanoscale fluidic channels filled with liquid electrolytes. This research direction is motivated by the high energy-efficiency of the brain (that operates with water and salts) relative to modern computers in a context of increase of computing power and decreasing amount of material and ressources. To advance in this direction, I am relying on disruptive nanopore technological developement using material and techniques coming from condensed matter physics and CMOS technology. 
+I am a CNRS Principal Investigator leading a research group at the École Normale Supérieure (ENS) of Lyon. During my Ph.D. and postdoctoral work, I helped establish a new research area: brain-inspired nanofluidics. This emerging field explores how brain-like computations can be achieved using nanoscale fluidic channels filled with liquid electrolytes. The motivation stems from the remarkable energy efficiency of the brain—which operates using water and salts—compared to conventional electronic computers, especially in a context of growing computational demands and dwindling material resources. To push this research forward, I develop disruptive nanopore technologies, drawing on methods and materials from condensed matter physics and CMOS-based nanofabrication.
+
 </div>
 
