@@ -14,6 +14,10 @@ I am a CNRS Principal Investigator at the École Normale Supérieure (ENS) of Ly
 
 <figure>
   <img src="images/iamgesite3.png" alt="Devices" style="width:100%">
-  <figcaption> Nanochannels behaving as synapses enabling brain-inspired Nanofluidics. On the left, the activated carbon nanochannels, from Robin<sup>*</sup>, Emmerich<sup>*</sup>, Ismail<sup>*</sup> et al. <em>Science</em>, 2023. On the right, the highly asymmetric channels, from Emmerich<sup>*</sup>, Teng<sup>*</sup>, Ronceray<sup>*</sup> et al. <em>Nature Electronics</em>, 2024.
+  <figcaption> Nanochannels behaving as synapses enabling brain-inspired Nanofluidics. On the left, the activated carbon nanochannels, from Robin<sup>*</sup>, Emmerich<sup>*</sup>, Ismail<sup>*</sup> et al. <em>Science</em>. 2023. On the right, the highly asymmetric channels, from Emmerich<sup>*</sup>, Teng<sup>*</sup>, Ronceray<sup>*</sup> et al. <em>Nature Electronics</em>. 2024.
   </figcaption>
 </figure>
+
+<div style="text-align: justify;">
+To further advance the field, my research follows three main directions. First, I aim to develop a comprehensive understanding of the origins of memory in nanofluidic systems, as a foundation for designing reliable and high-performance devices. Second, I explore ion-specific effects—phenomena that cannot be replicated by conventional electronics. Third, I work on scaling up current approaches to enable the construction of liquid-based computing architectures with a large number of interconnected components.
+</div>
