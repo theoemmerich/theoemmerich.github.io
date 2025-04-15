@@ -9,56 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<h3>Education</h3>
+<ul>
+  <li><strong>Ph.D. in Physics</strong>, ENS Paris — Oct. 2018 – Dec. 2021<br>
+  Advisor: Pr. Lydéric Bocquet</li>
+  <li><strong>MSc in Mechanical Engineering</strong>, ETH Zurich — Oct. 2015 – Mar. 2018<br>
+  Advisor: Pr. Dimos Poulikakos</li>
+  <li><strong>BSc in Mechanical Engineering</strong>, EPFL — Sept. 2011 – Nov. 2015</li>
+</ul>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<h3>Employment History</h3>
+<ul>
+  <li><strong>CNRS (CR)</strong>, ENS Lyon — Since Feb. 2025</li>
+  <li><strong>Postdoctoral Researcher</strong>, EPFL (Lab of Nanoscale Biology, PI: Pr. Aleksandra Radenovic) — Mar. 2022 – Jan. 2025</li>
+  <li><strong>Master Thesis</strong>, MIT (PI: Pr. Kripa K. Varanasi) — May 2017 – Jun. 2018</li>
+</ul>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<h3>Oral Presentations</h3>
+<ul>
+  <li>APS 2021 (Online)</li>
+  <li>APS 2022 (Chicago)</li>
+  <li>From Solid State to Biophysics X (2022, Cavtat)</li>
+  <li>Nanofluidics in Physics and Biology (2023, Lyon)</li>
+  <li>Nanofluidics Conference (2024, Lenzerheide)</li>
+  <li>From Solid State to Biophysics XI (2024, Cavtat)</li>
+  <li>GDR Nanofluidique (2024, Grenoble)</li>
+</ul>
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<h3>Fellowships</h3>
+<ul>
+  <li>SNSF Postdoctoral Fellowship (2023–2025)</li>
+</ul>
+
+<h3>Peer Review Contributions</h3>
+<ul>
+  <li>Nature Communications</li>
+  <li>Science Advances</li>
+  <li>PNAS</li>
+  <li>The Journal of Physical Chemistry Letters</li>
+  <li>ACS Applied Materials and Interfaces</li>
+  <li>Nanoscale</li>
+</ul>
