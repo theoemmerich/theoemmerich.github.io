@@ -14,4 +14,9 @@ I am a CNRS Principal Investigator at the École Normale Supérieure (ENS) of Ly
 
 </div>
 
-![Research Image](images/iamgesite3.png)
+#![Research Image]#(images/iamgesite3.png)
+
+<figure>
+  <img src="images/iamgesite3.png" alt="Devices" style="width:100%">
+  <figcaption>Figure 1 : Description ou légende de l’image.</figcaption>
+</figure>
