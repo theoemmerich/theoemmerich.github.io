@@ -14,9 +14,9 @@ I am a CNRS Principal Investigator at the École Normale Supérieure (ENS) of Ly
 
 </div>
 
-#![Research Image]#(images/iamgesite3.png)
 
 <figure>
   <img src="images/iamgesite3.png" alt="Devices" style="width:100%">
-  <figcaption>Figure 1 : Description ou légende de l’image.</figcaption>
+  <figcaption> Nanochannels behaving as synapses enabling brain-inspired Nanofluidics. On the left, the activated carbon nanochannels, from Robin<sup>*</sup>, Emmerich<sup>*</sup>, Ismail<sup>*</sup> et al. *Science*, 2023. On the right, the highly asymmetric channels, from Emmerich<sup>*</sup>, Teng<sup>*</sup>, Ronceray<sup>*</sup> et al. *Nature Electronics*, 2024.
+  </figcaption>
 </figure>
