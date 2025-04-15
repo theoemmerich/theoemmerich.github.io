@@ -23,4 +23,4 @@ To further advance the field, my research follows three main directions. First, 
 </div>
 <br>
 
-**I am looking forward to working with highly motivated Master's and Ph.D. students, as well as Postdoctoral researchers.** 
+**I am looking forward to working with highly motivated Master and Ph.D. students, as well as Postdoctoral researchers.** 
