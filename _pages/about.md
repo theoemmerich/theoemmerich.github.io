@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Building ionic computers"
 author_profile: true
 ---
 # Building ionic computers
