@@ -5,7 +5,6 @@ languageCode: en-US
 
 theme: ["github.com/wowchemy/starter-hugo-academic"]
 
-# Menu configuration
 menu:
   main:
     - name: Publications
@@ -15,12 +14,25 @@ menu:
       url: cv/
       weight: 2
 
-# General site configuration
 params:
   main_menu:
     enable: true
   layout:
     navbar_fixed: true
 
-# Directory Hugo will publish the site to
+  # Profile settings
+  profile:
+    enable: true
+    name: "Theo Emmerich"
+    image: "avatar.jpg"  # Place ton image dans static/media/avatar.jpg
+    links:
+      - icon: linkedin
+        icon_pack: fab
+        name: LinkedIn
+        url: "https://www.linkedin.com/in/ton-lien"
+      - icon: google-scholar
+        icon_pack: ai
+        name: Google Scholar
+        url: "https://scholar.google.com/citations?user=tonID"
+
 publishDir: "public"
