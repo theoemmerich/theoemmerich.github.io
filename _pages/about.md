@@ -21,3 +21,5 @@ I am a CNRS Principal Investigator at the École Normale Supérieure (ENS) of Ly
 <div style="text-align: justify;">
 To further advance the field, my research follows three main directions. First, I aim to develop a comprehensive understanding of the origins of memory in nanofluidic systems, as a foundation for designing reliable and high-performance devices. Second, I explore ion-specific effects—phenomena that cannot be replicated by conventional electronics. Third, I work on scaling up current approaches to enable the construction of liquid-based computing architectures with a large number of interconnected components.
 </div>
+
+**I am looking forward to work with highly motivated Master or Ph.D. student and Postdocs.** 
