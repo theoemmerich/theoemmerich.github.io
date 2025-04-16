@@ -5,6 +5,10 @@ author_profile: true
 
 <figure>
   <img src="https://actu.epfl.ch/image/142246/original/3840x2159.jpg" alt="LBEN" style="width:100%">
+  <figcaption style="font-size: 0.9em; text-align: center;">
+    Image by <a href="https://[site-de-la-source.com](https://actu.epfl.ch/)">EPFL/Titouan Veuillet</a>, licensed under 
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+  </figcaption>
 </figure>
 **Building ionic computers**
 
