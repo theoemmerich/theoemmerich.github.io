@@ -5,7 +5,7 @@ author_profile: true
 
 <figure>
   <img src="https://actu.epfl.ch/image/142246/original/3840x2159.jpg" alt="LBEN" style="width:100%">
-  <figcaption style="font-size: 0.9em; text-align: center;">
+  <figcaption style="font-size: 0.9em;">
     Image by <a href="https://actu.epfl.ch/news/des-synapses-nanofluidiques-pour-stocker-la-memo-2/">EPFL/Titouan Veuillet</a>, licensed under 
     <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
   </figcaption>
@@ -22,7 +22,8 @@ I am a CNRS Principal Investigator at the École Normale Supérieure (ENS) of Ly
 
 <figure>
   <img src="images/iamgesite3.png" alt="Devices" style="width:100%">
-  <figcaption> Nanochannels behaving as synapses enabling brain-inspired Nanofluidics. On the left, the activated carbon nanochannels, from Robin<sup>*</sup>, Emmerich<sup>*</sup>, Ismail<sup>*</sup> et al. <em>Science</em>. 2023. On the right, the highly asymmetric channels, from Emmerich<sup>*</sup>, Teng<sup>*</sup>, Ronceray<sup>*</sup> et al. <em>Nature Electronics</em>. 2024.
+  <figcaption style="font-size: 0.9em;">
+Nanochannels behaving as synapses enabling brain-inspired Nanofluidics. On the left, the activated carbon nanochannels, from Robin<sup>*</sup>, Emmerich<sup>*</sup>, Ismail<sup>*</sup> et al. <em>Science</em>. 2023. On the right, the highly asymmetric channels, from Emmerich<sup>*</sup>, Teng<sup>*</sup>, Ronceray<sup>*</sup> et al. <em>Nature Electronics</em>. 2024.
   </figcaption>
 </figure>
 
@@ -30,7 +31,7 @@ I am a CNRS Principal Investigator at the École Normale Supérieure (ENS) of Ly
 
 <figure>
   <img src="https://actu.epfl.ch/image/142247/original/3840x2159.jpg" alt="LBEN" style="width:100%">
-  <figcaption style="font-size: 0.9em; text-align: center;">
+  <figcaption style="font-size: 0.9em;">
     A nanofluidic logic circuit with highly asymmetric channels. Image by <a href="https://actu.epfl.ch/news/des-synapses-nanofluidiques-pour-stocker-la-memo-2/">EPFL/Titouan Veuillet</a>, licensed under 
     <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
   </figcaption>
