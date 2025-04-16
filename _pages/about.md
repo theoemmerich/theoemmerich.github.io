@@ -26,6 +26,12 @@ I am a CNRS Principal Investigator at the École Normale Supérieure (ENS) of Ly
   </figcaption>
 </figure>
 
-
-
 **I am looking forward to working with highly motivated Master and Ph.D. students, as well as Postdoctoral researchers.** 
+
+<figure>
+  <img src="https://actu.epfl.ch/image/142247/original/3840x2159.jpg" alt="LBEN" style="width:100%">
+  <figcaption style="font-size: 0.9em; text-align: center;">
+    A nanofluidic logic circuit with highly asymmetric channels. Image by <a href="https://actu.epfl.ch/news/des-synapses-nanofluidiques-pour-stocker-la-memo-2/">EPFL/Titouan Veuillet</a>, licensed under 
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+  </figcaption>
+</figure>
