@@ -2,9 +2,6 @@
 permalink: /
 author_profile: true
 ---
-<figure>
-  <img src="images/logosinstitutions.png" alt="logos" style="width:100%">
-</figure>
 
 <figure>
   <img src="https://actu.epfl.ch/image/142246/original/3840x2159.jpg" alt="LBEN" style="width:100%">
@@ -37,4 +34,7 @@ Nanochannels behaving as synapses enabling brain-inspired Nanofluidics. On the l
   <figcaption style="font-size: 0.9em;">
     A nanofluidic logic circuit with highly asymmetric channels. Image by <a href="https://actu.epfl.ch/news/des-synapses-nanofluidiques-pour-stocker-la-memo-2/">EPFL/Titouan Veuillet</a>, licensed under    CC BY-SA 4.0.
   </figcaption>
+</figure>
+<figure>
+  <img src="images/logosinstitutions.png" alt="logos" style="width:100%">
 </figure>
