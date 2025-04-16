@@ -2,6 +2,10 @@
 permalink: /
 author_profile: true
 ---
+
+<figure>
+  <img src="(https://actu.epfl.ch/image/142246/original/3840x2159.jpg)" alt="LBEN" style="width:100%">
+</figure>
 **Building ionic computers**
 
 
