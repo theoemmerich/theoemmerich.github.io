@@ -3,7 +3,7 @@ permalink: /
 author_profile: true
 ---
 <figure>
-  <img src="images/logoinstitutions.png" alt="logos" style="width:100%">
+  <img src="images/logosinstitutions.png" alt="logos" style="width:100%">
 </figure>
 
 <figure>
