@@ -15,7 +15,7 @@ author_profile: true
 
 <div style="text-align: justify;">
 
-I am a CNRS Principal Investigator at the École Normale Supérieure (ENS) of Lyon. During my Ph.D. and postdoctoral work, I helped establish a new research area: brain-inspired nanofluidics. This emerging field explores how brain-like computations can be achieved using nanoscale fluidic channels filled with liquid electrolytes. The motivation stems from the remarkable energy efficiency of the brain—which operates using water and salts—compared to conventional electronic computers, especially in a context of growing computational demands and dwindling material resources. To push this research forward, I develop disruptive nanopore technologies, drawing on methods and materials from condensed matter physics and CMOS-based nanofabrication.
+I am a CNRS Principal Investigator at the École Normale Supérieure (ENS) of Lyon. During my Ph.D. and postdoctoral work, I helped establish a new research area: brain-inspired nanofluidics. This emerging field explores how brain-like computations can be achieved using nanoscale fluidic channels filled with liquid electrolytes. The motivation stems from the remarkable energy efficiency of the brain—which operates using water and salts—compared to conventional electronic computers, especially in a context of growing computational demands and dwindling material resources. To further advance ionic computing, I develop disruptive nanopore technologies, drawing on methods and materials from condensed matter physics and CMOS-based nanofabrication.
 
 </div>
 
@@ -27,7 +27,7 @@ Nanochannels behaving as synapses enabling brain-inspired Nanofluidics. On the l
   </figcaption>
 </figure>
 
-**I am looking forward to working with highly motivated Master and Ph.D. students, as well as Postdoctoral researchers.** 
+**Reach out to me if you are interested in Lyon's ionic computing lab** 
 
 <figure>
   <img src="https://actu.epfl.ch/image/142247/original/3840x2159.jpg" alt="LBEN" style="width:100%">
