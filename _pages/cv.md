@@ -15,7 +15,7 @@ redirect_from:
   Advisor: Pr. Lydéric Bocquet</li>
   <li><strong>MSc in Mechanical Engineering</strong>, ETH Zurich — Oct. 2015 – Mar. 2018<br>
   Advisor: Pr. Dimos Poulikakos</li>
-  <li><strong>BSc in Mechanical Engineering</strong>, EPFL — Sept. 2011 – Nov. 2015</li>
+  <li><strong>BSc in Mechanical Engineering</strong>, EPFL — Sept. 2011 – Feb. 2015</li>
 </ul>
 
 <h3>Employment History</h3>
@@ -28,13 +28,13 @@ redirect_from:
 
 <h3>Oral Presentations</h3>
 <ul>
-  <li>APS 2021 (Online)</li>
-  <li>APS 2022 (Chicago)</li>
-  <li>From Solid State to Biophysics X (2022, Cavtat)</li>
-  <li>Nanofluidics in Physics and Biology (2023, Lyon)</li>
-  <li>Nanofluidics Conference (2024, Lenzerheide)</li>
-  <li>From Solid State to Biophysics XI (2024, Cavtat)</li>
   <li>GDR Nanofluidique (2024, Grenoble)</li>
+  <li>From Solid State to Biophysics XI (2024, Cavtat)</li>
+  <li>Nanofluidics Conference (2024, Lenzerheide)</li>
+  <li>Nanofluidics in Physics and Biology (2023, Lyon)</li>
+  <li>From Solid State to Biophysics X (2022, Cavtat)</li>
+  <li>APS 2022 (Chicago)</li>
+  <li>APS 2021 (Online)</li>
 </ul>
 
 <h3>Fellowships</h3>
