@@ -7,7 +7,7 @@ author_profile: true
   <img src="https://actu.epfl.ch/image/142246/original/3840x2159.jpg" alt="LBEN" style="width:100%">
   <figcaption style="font-size: 0.9em;">
     Image by <a href="https://actu.epfl.ch/news/des-synapses-nanofluidiques-pour-stocker-la-memo-2/">EPFL/Titouan Veuillet</a>, licensed under 
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+    <a CC BY-SA 4.0</a>
   </figcaption>
 </figure>
 **Building ionic computers**
@@ -32,7 +32,6 @@ Nanochannels behaving as synapses enabling brain-inspired Nanofluidics. On the l
 <figure>
   <img src="https://actu.epfl.ch/image/142247/original/3840x2159.jpg" alt="LBEN" style="width:100%">
   <figcaption style="font-size: 0.9em;">
-    A nanofluidic logic circuit with highly asymmetric channels. Image by <a href="https://actu.epfl.ch/news/des-synapses-nanofluidiques-pour-stocker-la-memo-2/">EPFL/Titouan Veuillet</a>, licensed under 
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+    A nanofluidic logic circuit with highly asymmetric channels. Image by <a href="https://actu.epfl.ch/news/des-synapses-nanofluidiques-pour-stocker-la-memo-2/">EPFL/Titouan Veuillet</a>, licensed under   <a CC BY-SA 4.0</a>
   </figcaption>
 </figure>
