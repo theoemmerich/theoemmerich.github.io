@@ -2,6 +2,9 @@
 permalink: /
 author_profile: true
 ---
+<figure>
+  <img src="images/logoinstitutions.png" alt="logos" style="width:100%">
+</figure>
 
 <figure>
   <img src="https://actu.epfl.ch/image/142246/original/3840x2159.jpg" alt="LBEN" style="width:100%">
