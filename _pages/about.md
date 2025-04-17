@@ -6,7 +6,7 @@ author_profile: true
 <figure>
   <img src="https://actu.epfl.ch/image/142246/original/3840x2159.jpg" alt="LBEN" style="width:100%">
   <figcaption style="font-size: 0.9em;">
-    Image by <a href="https://actu.epfl.ch/news/des-synapses-nanofluidiques-pour-stocker-la-memo-2/">EPFL/Titouan Veuillet</a>, licensed under 
+    With my colleagues from Postdoc: Nathan Roncerazy, Yunfei Teng and Aleksandra Radenovic. Image by <a href="https://actu.epfl.ch/news/des-synapses-nanofluidiques-pour-stocker-la-memo-2/">EPFL/Titouan Veuillet</a>, licensed under 
    CC BY-SA 4.0.
   </figcaption>
 </figure>
