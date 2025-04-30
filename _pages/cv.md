@@ -9,20 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-<h3>Education</h3>
+<h3>Background</h3>
 <ul>
-  <li><strong>Ph.D. in Physics</strong>, ENS Paris — Oct. 2018 – Dec. 2021<br>
+    <li><strong>CNRS (CR)</strong>, ENS Lyon — Since Feb. 2025</li>
+  <li><strong>Postdoctoral Researcher</strong>, EPFL (Lab of Nanoscale Biology, PI: Pr. Aleksandra Radenovic) — Mar. 2022 – Jan. 2025</li>
+ <li><strong>Ph.D. in Physics</strong>, ENS Paris — Oct. 2018 – Dec. 2021<br>
   Advisor: Pr. Lydéric Bocquet</li>
+   <li><strong>Master Thesis</strong>, MIT (PI: Pr. Kripa K. Varanasi) — May 2017 – Jun. 2018</li>
   <li><strong>MSc in Mechanical Engineering</strong>, ETH Zurich — Oct. 2015 – Mar. 2018<br>
   Advisor: Pr. Dimos Poulikakos</li>
   <li><strong>BSc in Mechanical Engineering</strong>, EPFL — Sept. 2011 – Feb. 2015</li>
-</ul>
-
-<h3>Employment History</h3>
-<ul>
-  <li><strong>CNRS (CR)</strong>, ENS Lyon — Since Feb. 2025</li>
-  <li><strong>Postdoctoral Researcher</strong>, EPFL (Lab of Nanoscale Biology, PI: Pr. Aleksandra Radenovic) — Mar. 2022 – Jan. 2025</li>
-  <li><strong>Master Thesis</strong>, MIT (PI: Pr. Kripa K. Varanasi) — May 2017 – Jun. 2018</li>
 </ul>
 
 
