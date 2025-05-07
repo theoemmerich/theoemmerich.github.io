@@ -6,7 +6,7 @@ author_profile: true
 <figure>
   <img src="images/manip.jpg" alt="manip" style="width:100%">
   <figcaption style="font-size: 0.9em;">
-    Filling the fluidic cell in order to witness ionic memory in action. Image by <a href="https://actu.epfl.ch/news/des-synapses-nanofluidiques-pour-stocker-la-memo-2/">EPFL/Titouan Veuillet</a>, licensed under 
+    Preparing the fluidic cell to witness the emergence of ionic memory. Image by <a href="https://actu.epfl.ch/news/des-synapses-nanofluidiques-pour-stocker-la-memo-2/">EPFL/Titouan Veuillet</a>, licensed under 
    CC BY-SA 4.0.
   </figcaption>
 </figure>
