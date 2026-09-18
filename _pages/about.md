@@ -27,7 +27,7 @@ Nanochannels behaving as synapses enabling brain-inspired Nanofluidics. On the l
   </figcaption>
 </figure>
 
-**Please, reach out to me if you are interested in Lyon's ionic computing lab !** 
+**I am actively looking for master studentd and I have opening for funded Ph.D.s with an ANR grant, please reach out to me if you are interested!** 
 
 <figure>
   <img src="https://actu.epfl.ch/image/142247/original/3840x2159.jpg" alt="LBEN" style="width:100%">
