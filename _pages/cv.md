@@ -33,8 +33,9 @@ redirect_from:
   <li>APS 2021 (Online)</li>
 </ul>
 
-<h3>Fellowships</h3>
+<h3>Major grants and fellowships</h3>
 <ul>
+  <li>ANR JCJC (2026-2030)</li>
   <li>SNSF Postdoctoral Fellowship (2023–2025)</li>
 </ul>
 
