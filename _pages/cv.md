@@ -21,18 +21,6 @@ redirect_from:
   <li><strong>BSc in Mechanical Engineering</strong>, EPFL — Sept. 2011 – Feb. 2015</li>
 </ul>
 
-
-<h3>Oral Presentations</h3>
-<ul>
-  <li>GDR Nanofluidique (2024, Grenoble)</li>
-  <li>From Solid State to Biophysics XI (2024, Cavtat)</li>
-  <li>Nanofluidics Conference (2024, Lenzerheide)</li>
-  <li>Nanofluidics in Physics and Biology (2023, Lyon)</li>
-  <li>From Solid State to Biophysics X (2022, Cavtat)</li>
-  <li>APS 2022 (Chicago)</li>
-  <li>APS 2021 (Online)</li>
-</ul>
-
 <h3>Major grants and fellowships</h3>
 <ul>
   <li>ANR JCJC (2026-2030)</li>
@@ -43,6 +31,7 @@ redirect_from:
 <ul>
   <li>Nature Communications</li>
   <li>Science Advances</li>
+  <li>Advanced Materials</li>
   <li>PNAS</li>
   <li>The Journal of Physical Chemistry Letters</li>
   <li>ACS Applied Materials and Interfaces</li>
