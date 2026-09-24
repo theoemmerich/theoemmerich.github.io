@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Enseignement"
-permalink: /open positions/
+permalink: /Open positions/
 author_profile: true
 ---
 
