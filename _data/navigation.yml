@@ -10,14 +10,12 @@
 main:
   - title: "Publications"
     url: /publications/
-
- 
     
   - title: "CV"
     url: /cv/
 
-      - title: "Enseignement"
-    url: /enseignement/
+  - title: "Open positions"
+    url: /Open positions/
     
   # - title: "CV"
   #   url: /cv-json/
